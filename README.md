@@ -4,7 +4,7 @@
 
 본 프로젝트는 **전북대학교 「웹서비스 설계」 과목의 Backend Framework Practice Assignment**를 위해 진행한 **Spring Boot 백엔드 실습 프로젝트**이다.
 
-**CS Fantasy Item Shop(컴공 판타지 아이템 쇼핑몰)**은 컴퓨터공학(Computer Science)의 개념과 개발자 문화를 **판타지 RPG 아이템 상점** 콘셉트로 재해석한 서비스이다.
+CS Fantasy Item Shop(컴공 판타지 아이템 쇼핑몰)은 컴퓨터공학(Computer Science)의 개념과 개발자 문화를 **판타지 RPG 아이템 상점** 콘셉트로 재해석한 서비스이다.
 
 개발자를 게임 속 플레이어로 설정하고, 컴퓨터공학과 관련된 개념을 아이템으로 표현하였다.
 
@@ -413,6 +413,4 @@ Postman 테스트를 처음부터 다시 실행하려면 서버를 재시작한 
 - GitHub Repository
     - Spring Boot 구현 코드
     - README
-    - Postman Collection
 - Postman 실행 및 API 테스트 화면 캡처
-- Middleware Logging 실행 화면 캡처
